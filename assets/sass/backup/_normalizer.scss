@@ -1,0 +1,38 @@
+body,html{
+  font-family: 'Oswald',sans-serif;
+  font-size: 16px;
+  font-weight:400;
+  color:#202020;
+  box-sizing: border-box;
+}
+h1,h2,h3{
+  font-weight:700;
+  color:#000000;
+}
+h4,h5,h6{
+  font-weight:500;
+  color:#000000;
+  margin:0;
+  margin-bottom:0;
+}
+h1,h2{
+  font-size: 20px;
+  margin:0;
+  margin-bottom:6px;
+  text-transform: uppercase;
+}
+h3{
+  font-size: 20px;
+  margin:0;
+  margin-bottom:6px;
+  text-transform: uppercase;
+}
+
+h4,h5,h6{
+  font-size: 18px;
+}
+p{
+  margin:0;
+  font-size:16px;
+  color:#323232;
+}

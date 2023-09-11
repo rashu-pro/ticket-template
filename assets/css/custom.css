@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap');
+
+body,html{
+    font-family: 'Oswald',sans-serif;
+    font-size: 18px;
+    font-weight:400;
+    color:#202020;
+}
+h1,h2,h3{
+    font-weight:700;
+    color:#000000;
+}
+h4,h5,h6{
+    font-weight:500;
+    color:#000000;
+}
+h1,h2{
+    font-size: 28px;
+    margin:0;
+    margin-bottom:10px;
+}
+h3{
+    font-size: 24px;
+}
+
+h4,h5,h6{
+    font-size: 20px;
+}
+p{
+    margin:0;
+    font-size:18px;
+}
+
+
+.ticket-wrapper{
+    padding:200px;
+    background: #f5f5f5;
+}
+.ticket{
+    width:650px;
+}
+
+.ticket-details{
+    display: ;
+}

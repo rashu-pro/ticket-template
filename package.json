@@ -1,0 +1,29 @@
+{
+  "name": "ticket-template",
+  "version": "1.0.0",
+  "description": "ticket template/ an html template for ticket for a event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashu-pro/ticket-template.git"
+  },
+  "keywords": [
+    "template",
+    "ticket",
+    "template",
+    "event",
+    "ticket",
+    "template",
+    "html",
+    "template"
+  ],
+  "author": "@rashu-pro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashu-pro/ticket-template/issues"
+  },
+  "homepage": "https://github.com/rashu-pro/ticket-template#readme"
+}
